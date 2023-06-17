@@ -1,8 +1,14 @@
-# Getting Started with Create React App
+# 🍴 😋 Eat and Split ✂️💵
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live Demo [Create React App](https://eat-and-split.netlify.app/).
 
-## Available Scripts
+## Eat and Split is a Bill Split Calculator
+
+### Features 🔥:
+- 1) Cool looking User Interface
+  2) You can Add new Friends to the list
+  3) You can Share Bill with Your Friends
+  4) Displays The Total Amount You owes to your Friend or Your Friends Owes You
 
 In the project directory, you can run:
 
